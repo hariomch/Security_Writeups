@@ -2,7 +2,7 @@
 
 ![Kenobi](./logo.png "Kenobi")
 
-[Kenobi](https://tryhackme.com/room/kenobi) is a nice room which involves enumerating Samba and NFS shares, exploiting ProFtpd and then useing a SUID binary to escalate privileges.
+[Kenobi](https://tryhackme.com/room/kenobi) is a nice room which involves enumerating Samba and NFS shares, exploiting ProFtpd and then using a SUID binary to escalate privileges.
 
 
 ### Task 1 - Deployment of Machine
@@ -51,6 +51,7 @@ You can recursively download the SMB share too. Submit the username and password
 `log.txt` conatains information about SSH key and ProFTPD and Samba configurations.
 ![log.txt](./log1.png "log.txt")
 ![log.txt](./log2.png "log.txt")
+
 This information might be useful later.
 
 
