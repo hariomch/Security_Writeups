@@ -2,7 +2,7 @@
 
 ![Kenobi](./logo.png "Kenobi")
 
-[Kenobi](https://tryhackme.com/room/kenobi) is a nice room which exploits ProFtpd and then use SUID binary to escalate privileges.
+[Kenobi](https://tryhackme.com/room/kenobi) is a nice room which involves enumerating Samba and NFS shares, exploiting ProFtpd and then useing a SUID binary to escalate privileges.
 
 
 ### Task 1 - Deployment of Machine
